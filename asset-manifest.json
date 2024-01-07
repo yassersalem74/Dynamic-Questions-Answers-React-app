@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Dynamic-Questions-Answers-React-app/static/css/main.dd1cbd36.css",
+    "main.js": "/Dynamic-Questions-Answers-React-app/static/js/main.fd208697.js",
+    "static/media/askingvector.png": "/Dynamic-Questions-Answers-React-app/static/media/askingvector.9c86560f45b110cedd45.png",
+    "static/media/noquestion3.png": "/Dynamic-Questions-Answers-React-app/static/media/noquestion3.85d11b83aad0ecaaa7ca.png",
+    "index.html": "/Dynamic-Questions-Answers-React-app/index.html",
+    "main.dd1cbd36.css.map": "/Dynamic-Questions-Answers-React-app/static/css/main.dd1cbd36.css.map",
+    "main.fd208697.js.map": "/Dynamic-Questions-Answers-React-app/static/js/main.fd208697.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.dd1cbd36.css",
+    "static/js/main.fd208697.js"
+  ]
+}
