@@ -1,0 +1,22 @@
+@use "./SASS/variables/colors"as *;
+@use "./SASS/mixins/mixins"as *;
+
+
+
+.accordion-body {
+    font-size: 1.1rem;
+    ;
+}
+
+button.accordion-button {
+    background: white;
+}
+
+.accordion-button:focus {
+    background: rgba(238, 235, 235, 0.91);
+}
+
+
+button.accordion-button {
+    background: rgb(185, 69, 69);
+}

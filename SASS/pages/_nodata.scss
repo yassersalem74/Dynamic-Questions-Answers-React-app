@@ -1,0 +1,24 @@
+@use "./SASS/variables/colors" as *;
+@use "./SASS/mixins/mixins" as *;
+
+
+.nodatesImg {
+    width: 100%;
+    height: 450px;
+    border-radius: 5%;
+}
+
+.nodatesQuote {
+    display: flex;
+    justify-content: center;
+    color: #dc3545;
+}
+.noques{
+    padding-top: 40px;
+    margin-bottom: -59px;
+    color: red;
+    font-size: 3rem;
+}
+.noimage{
+    padding-top: 40px;
+}

@@ -1,0 +1,88 @@
+$myFont: 'Almarai',
+sans-serif;
+
+$headerFontSize: 35px;
+$headerFontWeight: 700;
+
+$normalFontSize: 18px;
+$normalFontWeight : 500;
+
+body {
+    margin: 0;
+}
+
+.font {
+    font-family: 'Almarai', sans-serif;
+    font-size: $headerFontSize;
+    font-weight: $headerFontWeight;
+}
+
+.color-body {
+    height: 100vh;
+    background-color: white;
+}
+
+.btn-color {
+    border: none;
+    border-radius: 8px;
+    color: white;
+    background-color: #224f61;
+    padding: 8px;
+    font-size: 16px;
+}
+
+.main-title {
+    color: #03a9f5;
+}
+
+.btn {
+    border: none;
+    border-radius: 8px;
+    padding: 8px;
+    font-size: 16px;
+    color: white !important;
+
+    &.main {
+        background-color: #224f61;
+
+        &:hover {
+            background-color: #466977;
+        }
+    }
+
+    &.delete {
+        background-color: red;
+        &.inside{
+            margin-top: 16px;
+        }
+
+        &:hover {
+            background-color: rgb(240, 82, 82);
+        }
+    }
+}
+
+
+.rectangle {
+    height: 550px;
+    border-radius: 15px;
+    background-color: white;
+    box-shadow: 1px 4px 4px 1px rgba(85, 85, 85, 025);
+    overflow: auto;
+    overflow-x: hidden;
+}
+
+
+.img-avatar {
+    height: 60px;
+    width: 60px;
+    border-radius: 50%;
+}
+
+
+
+.Toastify__toast-body>div:last-child {
+    font-size: 1.2rem;
+}
+
+
